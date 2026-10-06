@@ -1,0 +1,8 @@
+{
+  "name": "VoxScribe AI - Voice-to-Notes Assistant",
+  "description": "Speech-to-text intelligence system converting audio into structured notes with executive summaries, key points, action items, dates, and searchable archive.",
+  "requestFramePermissions": [
+    "microphone"
+  ],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
